@@ -1,0 +1,37 @@
+
+.navv{
+  display: flex;
+  justify-content: flex-end;
+  height: 50px;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.82);
+  padding: 50px;
+}
+
+a{
+  padding-inline: 10px;
+  text-decoration: none;
+  color: rgb(252, 249, 249);
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.product {
+  background-color: #fff; 
+  padding: 20px;
+  border: 1px solid #ccc; 
+  box-sizing: border-box; 
+}
+
+.pInpt{
+  align-self: center;
+}
+
+td {
+  border: 1px solid black; 
+  padding: 0;
+}
+
+th {
+  border: 2px solid #ccc; 
+}
